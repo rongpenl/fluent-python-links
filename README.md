@@ -1,4 +1,5 @@
 # Fluent Python Links
+
 > Actually a companion for bootstrapping a better Python programmer, utilizing knowledge graph and source code studying.
 
 ## How to use
